@@ -9,6 +9,11 @@ Credit card input consists in 3 input fields
 and a submit button that will be enabled when all the 3 fields are filled and valid
 on submit click it will collect the valid data for usage.
 
+## install & run
+
+1. `npm install`
+2. `npm start`
+
 ## usage
 ```
     <CreditCardInput onSubmitForm="(data) => console.log(data)" />
